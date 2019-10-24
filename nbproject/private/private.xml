@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/Rate/Entite/Compte.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/rate.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/edit_teacher.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/Rate/config/Connexion.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/user_table.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/signin.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/appCss.css</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/resources/css/cssLayout.css</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/Rate/controller/VueController.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/javapapers/java/social/facebook/MainMenu.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/assets/css/paper-dashboard.css</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/redirect.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/signup.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/Rate/Entite/Professeur.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/teachers_table.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/assets/css/paper-dashboard.min.css</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/find_professor_by_school.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/assets/css/bootstrap.min.css</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/find_professor.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/add_teachers.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/Rate/Entite/Utilisateur.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/javapapers/java/social/facebook/FBConnection.java</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/logadmin.png</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/rate_professor.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/web/WEB-INF/jsp/search_result.jsp</file>
+            <file>file:/C:/Users/thinkpad/Documents/NetBeansProjects/RateTeachers/src/java/com/javapapers/java/social/facebook/FBGraph.java</file>
+        </group>
+    </open-files>
+</project-private>
